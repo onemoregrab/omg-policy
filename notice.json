@@ -1,4 +1,41 @@
 {
   "version": 1,
-  "notices": []
+  "notices": [
+    {
+      "id": "worldtour",
+      "from": "2026-11-14",
+      "title": {
+        "ko": "v1.0.1 데이원 패치와 글로벌 월드투어 안내",
+        "en": "v1.0.1 day-one patch and world tour"
+      },
+      "body": {
+        "ko": "데이원 패치 v1.0.1을 준비하고 있어요. 업데이트가 열리면 앱을 다시 열어 받을 수 있어요. 세계 지도에는 한국에서 시작해 일본, 프랑스, 미국, 브라질로 이어지는 월드투어가 열려 있고, 나라마다 20스테이지와 마지막 보스 인형이 기다려요.",
+        "en": "The v1.0.1 day-one patch is on its way. Once the store update opens, reopen the app to get it. The world map links Korea, Japan, France, USA and Brazil, with 20 stages and a boss doll in each country."
+      }
+    },
+    {
+      "id": "launch",
+      "from": "2026-11-13",
+      "title": {
+        "ko": "양대 마켓 146개국 정식 출시 완료",
+        "en": "Launched in 146 countries"
+      },
+      "body": {
+        "ko": "App Store와 Google Play에 같은 날 정식 출시했어요. 로그인 없이 설치하면 바로 플레이할 수 있고, 146개국에 함께 열렸어요. 한국·일본·프랑스·미국·브라질 5개국 100스테이지와 3D 비밀의 섬을 지금 만나 보세요.",
+        "en": "We launched on the App Store and Google Play on the same day. Install and play free without signing in, in 146 countries. Explore 100 stages across Korea, Japan, France, USA and Brazil, plus the 3D Secret Isle."
+      }
+    },
+    {
+      "id": "secret-isle",
+      "from": "2026-11-14",
+      "title": {
+        "ko": "3D 비밀의 섬과 황금 트로피 안내",
+        "en": "Secret Isle and golden trophies"
+      },
+      "body": {
+        "ko": "세계 지도에서 누구나 비밀의 섬으로 날아가 3D 트로피 진열장을 볼 수 있어요. 구매와 후원 금액을 합친 금액이 1,000원, 5,000원, 10,000원, 100,000원에 닿을 때마다 동·은·금·다이아 트로피가 하나씩 생겨요.",
+        "en": "Anyone can fly to the Secret Isle from the world map to see the 3D trophy hall. Each time your purchases and support reach 1,000, 5,000, 10,000 or 100,000 won, a bronze, silver, gold or diamond trophy is added."
+      }
+    }
+  ]
 }
