@@ -2,6 +2,30 @@
   "version": 1,
   "notices": [
     {
+      "id": "v105",
+      "from": "2026-11-18",
+      "title": {
+        "ko": "v1.0.5 업데이트 배포 완료",
+        "en": "v1.0.5 update is live"
+      },
+      "body": {
+        "ko": "iOS v1.0.5가 11월 18일 App Store에 배포됐어요. 인게임 물리 판정과 플레이 안정성, 화면 표시를 다듬었어요. 세계 지도는 한국·일본·프랑스·미국·브라질·호주·뉴질랜드·캐나다 8개국으로 이어지고, 나라마다 20스테이지가 있어요. 아이폰은 App Store에서 업데이트하면 바로 받을 수 있고, 안드로이드는 Google Play 심사를 거쳐 순차로 열려요.",
+        "en": "iOS v1.0.5 is live on the App Store as of November 18. It refines in-game physics judging, play stability and screen display. The world map now runs through eight countries — Korea, Japan, France, USA, Brazil, Australia, New Zealand and Canada — with 20 stages in each. On iPhone, update in the App Store to get it; the Android build will roll out in order after Google Play review."
+      }
+    },
+    {
+      "id": "terms",
+      "from": "2026-11-18",
+      "title": {
+        "ko": "이용약관·환불정책·개인정보처리방침 개정 안내 (시행일 2026년 11월 26일)",
+        "en": "Terms, refund policy and privacy policy revision (effective Nov 26, 2026)"
+      },
+      "body": {
+        "ko": "약관 제4조에 따라 개정 내용을 미리 알려 드려요. App Store 결제와 Apple 환불 절차, 지원 기기(iOS 15.0 이상), 서비스 제공 국가, 보상형 광고 코인 지급량(1회 50코인)을 문서에 반영합니다. 개정 약관은 2026년 11월 26일부터 시행하며, 그때까지 거부 의사를 밝히지 않고 계속 이용하면 개정 내용에 동의한 것으로 봅니다. 자세한 내용은 이용약관·환불정책·개인정보처리방침에서 볼 수 있어요.",
+        "en": "As set out in Article 4 of the Terms, here is advance notice of the revision. We are adding App Store payment and Apple refund procedures, the supported device requirement (iOS 15.0 or later), the countries we serve, and the rewarded-ad coin amount (50 coins per view). The revised terms take effect on November 26, 2026; if you keep using the game until then without objecting, you are taken to agree to them. Details are in the Terms, Refund Policy and Privacy Policy."
+      }
+    },
+    {
       "id": "worldtour",
       "from": "2026-11-15",
       "title": {
@@ -9,8 +33,8 @@
         "en": "v1.0.1 update is live and the world tour"
       },
       "body": {
-        "ko": "iOS v1.0.1 업데이트가 11월 15일 App Store에 배포됐어요. 결제와 광고 안정화, 화면 개선, 여러 버그 수정을 담았어요. 아이폰은 App Store에서 업데이트하면 바로 받을 수 있어요. 구글 플레이는 11월 14일 업데이트가 먼저 반영됐고, 다음 안드로이드 업데이트는 Google 심사를 거쳐 순차로 열려요. 세계 지도에는 한국에서 시작해 일본, 프랑스, 미국, 브라질로 이어지는 월드투어가 열려 있고, 나라마다 20스테이지와 마지막 보스 인형이 기다려요.",
-        "en": "The iOS v1.0.1 update is live on the App Store as of November 15, with steadier payments and ads, screen improvements, and several bug fixes. On iPhone, update in the App Store to get it. Google Play published its November 14 update first, and the next Android update is in review and will roll out in order. The world map links Korea, Japan, France, USA and Brazil, with 20 stages and a boss doll in each country."
+        "ko": "iOS v1.0.1 업데이트가 11월 15일 App Store에 배포됐어요. 결제와 광고 안정화, 화면 개선, 여러 버그 수정을 담았어요. 아이폰은 App Store에서 업데이트하면 바로 받을 수 있어요. 구글 플레이는 11월 14일 업데이트가 먼저 반영됐고, 다음 안드로이드 업데이트는 Google 심사를 거쳐 순차로 열려요. 세계 지도에는 한국부터 일본, 프랑스, 미국, 브라질, 호주, 뉴질랜드, 캐나다까지 8개국 월드투어가 열려 있고, 나라마다 20스테이지와 마지막 보스 인형이 기다려요.",
+        "en": "The iOS v1.0.1 update is live on the App Store as of November 15, with steadier payments and ads, screen improvements, and several bug fixes. On iPhone, update in the App Store to get it. Google Play published its November 14 update first, and the next Android update is in review and will roll out in order. The world map links eight countries — Korea, Japan, France, USA, Brazil, Australia, New Zealand and Canada — with 20 stages and a boss doll in each country."
       }
     },
     {
@@ -21,8 +45,8 @@
         "en": "Launched in 146 countries"
       },
       "body": {
-        "ko": "App Store와 Google Play에 같은 날 정식 출시했어요. 로그인 없이 설치하면 바로 플레이할 수 있고, 146개국에 함께 열렸어요. 한국·일본·프랑스·미국·브라질 5개국 100스테이지를 지금 만나 보세요.",
-        "en": "We launched on the App Store and Google Play on the same day. Install and play free without signing in, in 146 countries. Explore 100 stages across Korea, Japan, France, USA and Brazil."
+        "ko": "App Store와 Google Play에 같은 날 정식 출시했어요. 로그인 없이 설치하면 바로 플레이할 수 있고, 146개국에 함께 열렸어요. 출시 때는 다섯 나라에서 시작했고, 지금은 호주·뉴질랜드·캐나다를 더해 8개국 160스테이지로 이어져요.",
+        "en": "We launched on the App Store and Google Play on the same day. Install and play free without signing in, in 146 countries. We started with five countries and the world map now runs through eight — Australia, New Zealand and Canada included — for 160 stages in all."
       }
     },
     {
